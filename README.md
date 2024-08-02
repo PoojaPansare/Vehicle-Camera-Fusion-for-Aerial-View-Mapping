@@ -41,6 +41,3 @@ Methodology achieved a Mean Intersection-over-Union (MIoU) of 55.31% on the vali
 
 ## Future Work
 Plan to explore enhancements that address finer details in semantic segmentation, refining the network architecture for more nuanced feature extraction, and extending our methodology to diverse real-world scenarios.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.

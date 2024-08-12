@@ -12,8 +12,8 @@ setup(
     description="Birds Eye View from Multiple Vehicle Camera Images",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ayushgoel24/Birds-Eye-View-from-Multiple-Vehicle-Camera-Images",
-    author="Ayush Goel",
+    url="https://github.com/pooja-pansare/Birds-Eye-View-from-Multiple-Vehicle-Camera-Images",
+    author="Pooja-Pansare",
     author_email="ayush.goel2427@gmail.com",
     # package_dir={"": "src"},  # Optional
     packages=find_packages(),

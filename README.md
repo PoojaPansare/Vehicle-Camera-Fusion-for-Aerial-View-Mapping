@@ -16,7 +16,7 @@ This repository contains the implementation of methodology for transforming mult
 
 ## Setup and Training Instructions
 1. **Environment Setup**:
-    - Clone the repository: `https://github.com/ayushgoel24/Birds-Eye-View-from-Multiple-Vehicle-Camera-Images`.
+    - Clone the repository: `https://github.com/pooja-pansare/Birds-Eye-View-from-Multiple-Vehicle-Camera-Images`.
     - Install the required libraries: `pip install -r requirements.txt`.
 
 2. **Model Training**:
